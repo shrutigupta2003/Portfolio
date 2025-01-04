@@ -24,7 +24,7 @@ const EducationCard = () => {
           <p className="btc">SECONDARY SCHOOL</p>
           <p>GOODLEY PUBLIC SCHOOL</p>
           <p>PERCENTAGE:90.8%</p>
-          <p>Apr 2027-Mar 2018</p>
+          <p>Apr 2017-Mar 2018</p>
         </div>
       </div>
     </div>
